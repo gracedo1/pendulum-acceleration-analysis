@@ -1,4 +1,4 @@
-# Smartphone Pendulum Experiment
+# Pendulum Acceleration Analysis Using Phyphox
 
 Repository for the smartphone pendulum project conducted for General Physics. The experiment used Phyphox acceleration data to estimate the oscillation period of a pendulum made from a smartphone suspended by two parallel strings.
 
