@@ -67,4 +67,11 @@ The basic 10, 20, and 30 degree trials gave similar periods. The added-mass tria
 
 ## Reference
 
-R. Mathevet, N. Lamrani, L. Martin, P. Ferrand, J. P. Castro, P. Marchou, and C. M. Fabre, “Quantitative analysis of a smartphone pendulum beyond linear approximation: A lockdown practical homework,” *American Journal of Physics*, vol. 90, no. 5, pp. 344–350, 2022.
+[1] R. Mathevet, N. Lamrani, L. Martin, P. Ferrand, J. P. Castro, P. Marchou, and C. M. Fabre.
+(2022). “Quantitative analysis of a smartphone pendulum beyond linear approximation: A
+lockdown practical homework.” American Journal of Physics, 90(5), 344–350. DOI: https:
+//doi.org/10.1119/10.0010073
+[2] J. B. Marion and S. T. Thornton. (2004). Classical Dynamics of Particles and Systems.
+5th Edition, Brooks/Cole. Available: https://books.google.com/books/about/Classical_
+Dynamics_of_Particles_and_Syst.html?id=HOqLQgAACAAJ
+[3] Phyphox. “Physical Phone Experiments.” Available: https://phyphox.org/
